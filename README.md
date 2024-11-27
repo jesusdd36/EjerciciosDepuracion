@@ -11,7 +11,7 @@ En este proyecto, los estudiantes encontrarán código en Java que contiene una 
 El proyecto está organizado en varios paquetes, cada uno de los cuales se centra en un tipo de error o técnica de depuración específica. Los paquetes principales son:
 Cada paquete contiene uno o más archivos de Java con comentarios y anotaciones que guían al estudiante en el proceso de depuración.
 
-## Requisitos
+## Requisitos del proyecto
 
 - **Java JDK 11 o superior**: Asegúrate de tener instalada una versión compatible de Java.
 - **IDE recomendado**: Se recomienda usar IntelliJ IDEA o Eclipse para aprovechar al máximo las funciones de depuración integradas.
