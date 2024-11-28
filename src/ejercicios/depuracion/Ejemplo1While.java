@@ -6,11 +6,11 @@ public class Ejemplo1While {
 	
     	
     	private int suma;
-		private int num;
+		private int contador;
     	
     	public Ejemplo1While() {
     		this.suma=0;
-    		this.num=0;
+    		this.contador=0;
     	}
     	public static void main(String[] args) {
         int suma = 0, num;
