@@ -5,12 +5,14 @@ import java.util.Scanner;
 public class Ejemplo1While {
 	
     	
-    	private int suma;
-		private int contador;
+		private int suma;
+
+		private int numero;
     	
     	public Ejemplo1While() {
     		this.suma=0;
-    		this.contador=0;
+    		this.numero=0;
+
     	}
     	public static void main(String[] args) {
         int suma = 0, num;
