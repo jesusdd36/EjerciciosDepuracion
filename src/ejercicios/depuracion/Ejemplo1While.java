@@ -1,8 +1,18 @@
 package ejercicios.depuracion;
 
 import java.util.Scanner;
+
 public class Ejemplo1While {
-    public static void main(String[] args) {
+	
+    	
+    	private int suma;
+		private int num;
+    	
+    	public Ejemplo1While() {
+    		this.suma=0;
+    		this.num=0;
+    	}
+    	public static void main(String[] args) {
         int suma = 0, num;
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca un número: ");
